@@ -90,7 +90,7 @@ No hidden state causing peer confusion.
 
 ## Usage
 
-To use this configuration, create a folder named `.vscode` at the root of your repository. Inside that folder, place a file named [`settings.json`](.vscode/settings.json). Copy the [`settings.json`](.vscode/settings.json) from this repository into that location.
+To use this configuration, create a folder named `.vscode` at the root of your repository. Inside that folder, place a file named [`settings.json`](settings.json). Copy the [`settings.json`](settings.json) from this repository into that location.
 
 
 This configuration must live at the workspace level. VS Code applies language services and diagnostics per workspace. User-level settings are advisory. Workspace settings are authoritative. That is why the `.vscode` folder is committed to Git.
