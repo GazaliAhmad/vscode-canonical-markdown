@@ -1,0 +1,13 @@
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor local history / temp
+.vscode-history/
+.history/
+
+# VS Code workspace files (user-specific)
+*.code-workspace
+
+# Logs
+*.log
