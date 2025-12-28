@@ -1,0 +1,32 @@
+{
+  "[markdown]": {
+    "cSpell.enabled": false,
+    "spellchecker.enabled": false,
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false,
+    "editor.renderValidationDecorations": "off",
+    "editor.quickSuggestions": false,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.hover.enabled": false,
+    "editor.stickyScroll.enabled": false
+  },
+  "markdown.validate.enabled": false,
+  "markdownlint.enable": false,
+  "editor.formatOnSave": false,
+  "editor.detectIndentation": true,
+  "editor.wordBasedSuggestions": "off",
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.rulers": [],
+  "editor.guides.indentation": false,
+  "editor.guides.highlightActiveIndentation": false,
+  "editor.stickyScroll.enabled": false,
+  "breadcrumbs.enabled": false,
+  "breadcrumbs.filePath": "off",
+  "breadcrumbs.symbolPath": "off",
+  "editor.links": false,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "terminal.integrated.stickyScroll.enabled": false
+}
